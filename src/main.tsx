@@ -1,5 +1,5 @@
 import { StrictMode } from 'react'
-import { ThemeProvider } from 'styled-components'
+import { ThemeProvider } from '@mui/material/styles'
 import { createRoot } from 'react-dom/client'
 import App from './App.tsx'
 import { GlobalStyle, lightTheme } from './styles'
